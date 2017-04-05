@@ -6,5 +6,7 @@
             "email": "alex03000@live.com"
         }
     ],
-    "require": {}
+    "require": {
+        "twbs/bootstrap": "^3.3"
+    }
 }
